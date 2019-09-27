@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc44a28a-12b7-4f16-94ee-91f287c510fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_30.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc44a28a-12b7-4f16-94ee-91f287c510fd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -171,6 +169,7 @@
       <workItem from="1569397740739" duration="5059000" />
       <workItem from="1569466625977" duration="5406000" />
       <workItem from="1569482625220" duration="2380000" />
+      <workItem from="1569486371202" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="猕猴桃项目初始化版本">
       <created>1568020153541</created>
